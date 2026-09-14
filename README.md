@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Current Release: Version 1.0.2</strong><br>
+  <strong>Current Release: Version 1.0.6</strong><br>
   Created by <strong>Cimbachu888</strong><br>
   Technical refinement, bug fixing, release preparation, and publication by <strong>WoRLAND Studios</strong>
 </p>
